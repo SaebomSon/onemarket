@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+
+		
+	h1, p { text-align:center; } 
+
+	table { margin-left:auto; margin-right:auto; text-align:center;}
+
+	td { height :40px; width: 120px; text-align:left;}
+     
+	input { vertical-align: middle; width:200px; height:30px; border:1px solid gray; border-radius:5px; text-indent:10px;}
+        
+	#wrapper2 { text-align:center;}
+	.findId { 
+			text-align:center;
+			cursor: pointer;
+			}
+	
+	.btn {  
+			border-radius:5px; width:170px; height:35px; 
+			border:1px solid linear-gradient(30deg, #fd6585, #0d25b9);
+			background:-webkit-linear-gradient(30deg, #fd6585, #0d25b9);
+			color: transparent;
+			-webkit-background-clip: text;
+			font-size: medium;
+			cursor: pointer; 
+		}
+		
+	.btn:hover {
+			border: 1px solid #aaaaaa;
+			background: linear-gradient(30deg, #fd6585, #0d25b9);
+			color:white;
+		}
+
+	.head {
+	    background: -webkit-linear-gradient(30deg, #fd6585, #0d25b9);
+	    color: transparent;
+	    -webkit-background-clip: text;
+	    font-size: 3em;
+	    font-family : TmonMonsori, "GodoB";
+	    cursor: pointer; 
+		}
+
+	.box {
+		width:50%;
+		height:20px;
+		margin:0 auto;
+		background: -webkit-linear-gradient(30deg, #fd6585, #0d25b9);
+	    color: transparent;
+	    border-radius:70px 20px;
+		}
+		
+		.line {
+		width:23%;
+		height:2px;
+		margin:0 auto;
+		background: -webkit-linear-gradient(30deg, #fd6585, #0d25b9);
+	    color: transparent;
+	    border-radius:70px 20px;
+		}
+		
+		
